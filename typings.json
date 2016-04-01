@@ -1,0 +1,5 @@
+{
+    "name": "extract-text-webpack-plugin",
+    "main": "index.d.ts",
+    "homepage": "https://github.com/webpack/extract-text-webpack-plugin"
+}
